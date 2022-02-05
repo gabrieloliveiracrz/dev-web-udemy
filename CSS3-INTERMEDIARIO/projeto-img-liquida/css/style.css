@@ -3,9 +3,9 @@ body{
 }
 
 #container{
-    width: 85%/*720px -> 85%*/;
+    width: 960px/*720px -> 85%*/;
     margin: 0 auto;
-    background: #fff;
+    background: #fff url(../img/coluna.png) repeat-y left top;
     min-width: 820px;
     max-width: 960px;
 }
@@ -58,7 +58,7 @@ img.img-noticia{
     float: left;
     padding-top: 20px;
     padding-bottom: 20px;
-    background: #d1d1d1;
+    /* background: #d1d1d1; */
 }
 
 #navegacao li{
